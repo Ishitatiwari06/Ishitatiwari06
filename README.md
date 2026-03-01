@@ -59,11 +59,7 @@
 
 ## 📈 GitHub Stats
 
-![Ishita's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ishitatiwari06&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ishitatiwari06&layout=compact&theme=tokyonight)
-
-![snake gif](https://github.com/Ishitatiwari06/Ishitatiwari06/blob/output/github-contribution-grid-snake.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishitatiwari06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ## 🌍 Connect with me
 
