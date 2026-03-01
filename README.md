@@ -64,5 +64,4 @@
 ## 🌍 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ishitatiwari06/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)]( https://ishitatiwari06.github.io/portfolio/)
 
