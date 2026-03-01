@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ishita Tiwari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Learner;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer;DSA+Enthusiast;Open+Source+Learner;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
-
-## 🚀 Tech Stack
 
 ## 🚀 Tech Stack
 
@@ -61,7 +59,7 @@
 
 ## 📈 GitHub Stats
 
-![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishitatiwari06&show_icons=true&theme=tokyonight)
+![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishitatiwari06&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishitatiwari06&layout=compact&theme=tokyonight)
 
@@ -69,6 +67,6 @@
 
 ## 🌍 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([YOUR_LINK](https://www.linkedin.com/in/ishitatiwari06/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]((https://www.linkedin.com/in/ishitatiwari06/))
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)]( https://ishitatiwari06.github.io/portfolio/)
 
