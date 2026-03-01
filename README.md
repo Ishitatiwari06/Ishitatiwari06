@@ -8,43 +8,43 @@
 
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
 
 ---
 
 ### 🌐 Frontend Development
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
 
 ---
 
 ### 🛠 Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/-JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
 ---
 
 ### 🗄 Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 
 ---
 
 ### 📊 Data & Analytics
-![PowerBI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=powerbi)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
+![PowerBI](https://img.shields.io/badge/-PowerBI-black?style=for-the-badge&logo=powerbi)
+![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql)
 
 ---
 
 ### ☁️ Tools & Deployment
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel)
 
 ## 🧠 DSA & Problem Solving
 
