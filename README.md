@@ -7,7 +7,7 @@
 ## 🚀 Tech Stack
 
 ### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 
