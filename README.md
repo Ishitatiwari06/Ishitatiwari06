@@ -59,13 +59,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ishitatiwari06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-<p align="center">
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ishitatiwari06&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishitatiwari06&theme=tokyo-night)
 
 ## 🌍 Connect with me
 
